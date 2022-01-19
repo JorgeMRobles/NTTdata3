@@ -1,6 +1,4 @@
-server:
-  port: 8082
-some:
-    value: valor de myvalue-test
+product:
+  product-name: Zapatillas de Deporte de Jorge test
   
  
