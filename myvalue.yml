@@ -1,5 +1,3 @@
-server:
-  port: 8081
-some:
-    value: valor de myvalue
+product:
+  product-name: Zapatillas de Deporte de Jorge
   
