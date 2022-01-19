@@ -1,7 +1,6 @@
-server:
-  port: 8083
-some:
-    value: valor de myvalue-produccion
+product:
+  product-name: Zapatillas de Deporte de Jorge produccion
+  
   
   
  
